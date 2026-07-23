@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+venv/
+
+# Data files (too large / not ours to redistribute)
+data/raw/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
